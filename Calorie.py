@@ -126,7 +126,7 @@ def obesity_prediction():
             label_to_image = {
                 "Normal_Weight": ("normal.jpeg", "Normal Weight"),
                 "Overweight_Level_I": ("overweight.jpeg", "Overweight (Type I)"),
-                "Overweight_Level_II": ("overweight", "Overweight (Type II)"),
+                "Overweight_Level_II": ("overweight.jpeg", "Overweight (Type II)"),
                 "Overweight_Level_III": ("overweight.jpeg", "Overweight (Type III)"),
                 "Obesity_Type_I": ("obese.jpeg", "Obesity (Type I)"),
                 "Obesity_Type_II": ("obese.jpeg", "Obesity (Type II)"),
